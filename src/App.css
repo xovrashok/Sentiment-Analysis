@@ -39,6 +39,8 @@ p{
   font-size: 70px;
   color: currentColor;
 }
+
+
 .arrow-down{
   background-image: url("images/down-arrow.png");
   background-repeat: no-repeat;
